@@ -8,7 +8,7 @@
          "Group",
          "Telegram"         
       ],   
-   "repository": "https://github.com/TonyStark-21/Ban-All-Bot",
+   "repository": "https://github.com/INNOCENTBOY2926/Ban-All-Bot",
    "stack": "heroku-20",
    "addons": [
       {
