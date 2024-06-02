@@ -44,7 +44,7 @@ $ python3 -m BanAllBot
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nakuldkdhacker0026/Ban-All-Bot)
+[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/INNOCENTBOY2926/Ban-All-Bot)
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
